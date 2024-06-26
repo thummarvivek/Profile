@@ -37,7 +37,7 @@ A challenging role where I can apply my expertise and continue learning while co
 
 ### 🌐 Socials:
 [![Email](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=0774db)](mailto:vivekthummar90@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedIn&logoColor=0EA5E9)]([linkedin.com/in/vivek-thummar-a2a956269/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedIn&logoColor=0EA5E9)](linkedin.com/in/vivek-thummar-a2a956269/)
 
 
 ### :handshake: Let's collaborate and innovate together to drive success!
