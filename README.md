@@ -24,6 +24,7 @@ I have 2.5+ years of experience in the field. My journey began with intensive tr
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=AE2AF8)
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=F5C73B)
+![RoomDatabase](https://img.shields.io/badge/-RoomDatabase-090909?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Php](https://img.shields.io/badge/php-090909?style=for-the-badge&logo=php)
 ![MySql](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=00708A)
